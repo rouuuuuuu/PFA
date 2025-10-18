@@ -121,11 +121,4 @@ python visualize.py --data results.csv
 * Libraries: `transformers`, `torch`, `scikit-learn`, `pandas`, `matplotlib`, `numpy`
 * YouTube Data API key (for comment extraction)
 
----
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-
-Veux‑tu que je fasse ça aussi ?
